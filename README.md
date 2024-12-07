@@ -20,10 +20,10 @@ Loops :  Döngü yapısını öğrendim. Temel olarak For, While yapısını iç
 LoopsWithStars : For döngüsünü pekiştirmek için yıldızlar üçgen, ters üçgen piramit gibi şekiller oluşturdum.
 
 ## 📄 Proje 6: Diziler (Arrays)
-Arrays : Temel dizi mantığını öğrendim. Dizi elemnlarını sıralmayı ayrıca for döngüsünü kullanmayı ve ek olarak kullanıdan değer alma komutlarını öğrendim. 
+Arrays : Temel dizi mantığını öğrendim. Dizi elemnlarını sıralamayı ayrıca for döngüsünü kullanmayı ve ek olarak kullanıdan değer alma komutlarını öğrendim. 
 
 ## 📄 Proje 7: Foreach Döngüsü (Foreach Loop)
-ForeachLoop : Foeach döngüsünü kullanarak bir sınav sistemi kodladım. 
+ForeachLoop : Foreach döngüsünü kullanarak bir sınav sistemi kodladım. 
 
 ## 📄 Proje 8: Metotlar
 Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. 
