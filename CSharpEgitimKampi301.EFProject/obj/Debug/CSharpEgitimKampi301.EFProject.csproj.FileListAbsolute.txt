@@ -1,0 +1,15 @@
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe.config
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistic.resources
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Properties.Resources.resources
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.GenerateResource.cache
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CopyComplete
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\DERYA TAŞ\source\repos\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
