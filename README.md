@@ -29,7 +29,16 @@ ForeachLoop : Foreach döngüsünü kullanarak bir sınav sistemi kodladım.
 Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. 
 
 ## 📄 Proje 9: Veritabanı Tabanı (Database Project)
-DatabaseProject : Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırdım.
+DatabaseProject : Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. 
+SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırdım.
+
+## 📄 Proje 10: Menü Sipariş İşlem Paneli (Database Crud)
+Database Crud: SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım.
+
+## 📄 Proje 11: EfTravel İstatistik Panel Projesi
+
+
+![Ekran görüntüsü 2024-12-26 003615](https://github.com/user-attachments/assets/74428d17-2f68-4db9-b221-f3aed35bf6d3)
 
 
 
