@@ -35,10 +35,15 @@ SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular �
 ## 📄 Proje 10: Menü Sipariş İşlem Paneli (Database Crud)
 Database Crud: SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım.
 
-## 📄 Proje 11: EfTravel İstatistik Panel Projesi
+## 📄 Proje 11: EFTravel İstatistik Panel Projesi
 
 
 ![Ekran görüntüsü 2024-12-26 003615](https://github.com/user-attachments/assets/74428d17-2f68-4db9-b221-f3aed35bf6d3)
+
+EFTravel Project: Windows Forms üzerinden Entity Framework kullanarak bir seyahet istatistik paneli oluşturdum. Projede amaç database first mantığı ile ilk önce mssql'den veritabanı tablolarını oluşturdum ardından projeye ekledim. Form ile de istatistik kısmını çeşitli kodlar ile yazdım. Entity Framework kullanarak veri tabanına bağlantı kurma, sorgulama ve LINQ ifadeleri ile filtreleme işlemlerini daha etkin bir şekilde kullanmayı öğrendim 
+Projede toplam 12 tane özellik vardır: Toplam lokasyon sayısı, kapasite, rehber sayısı bilgilerinin hesaplanması. Ortalama kapasite ve fiyat gibi istatistiksel değerlerin gösterilmesi. Belirli bir şehir ya da ülkeye ait verilerin özel olarak filtrelenmesi. Maksimum kapasite ve fiyat gibi en yüksek değerlere sahip şehirlerin tespit edilmesi. 
+Çalışmalara devam edeceğim ⚡.
+
 
 
 
